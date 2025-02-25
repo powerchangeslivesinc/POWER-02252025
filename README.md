@@ -1,3 +1,5 @@
+You can check out the website from your local machine using VS Code and running the index.html file with Live Server (its a vs code extension you may need to install it if you don't already have it)
+
 ## 💡 How to Contribute
 We welcome contributions! Here’s how you can help:
 1. **Fork the repository**.
